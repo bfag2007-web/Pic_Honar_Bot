@@ -1,4 +1,4 @@
-rembg
-pillow
-onnxruntime
-numpy
+rembg==2.0.76
+pillow==12.2.0
+onnxruntime==1.19.2
+numpy==2.4.6
